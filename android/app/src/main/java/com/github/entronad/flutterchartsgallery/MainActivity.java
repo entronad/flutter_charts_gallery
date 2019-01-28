@@ -1,4 +1,4 @@
-package com.entronad.flutterchartsgallery;
+package com.github.entronad.flutterchartsgallery;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
