@@ -4,6 +4,11 @@ import 'package:flutter_charts_gallery/models/package.dart';
 
 final packages = <Package>[
   Package(
+    name: 'flutter_echarts',
+    github: 'entronad/flutter_echarts',
+    version: '1.0.6',
+  ),
+  Package(
     name: 'charts_flutter',
     github: 'google/charts',
     version: '0.5.0',
