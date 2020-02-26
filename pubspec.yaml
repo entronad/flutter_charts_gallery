@@ -14,6 +14,7 @@ dependencies:
   flutter_circular_chart: ^0.1.0
   flutter_charts: ^0.1.10
   fcharts: ^0.0.10
+  syncfusion_flutter_charts: ^17.4.40
 
   # flutter_echarts
   number_display: ^2.1.4
